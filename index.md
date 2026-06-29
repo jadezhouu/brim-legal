@@ -1,6 +1,11 @@
+  ---
+  layout: default
+  title: Privacy Policy
+  ---
+  
   Welcome to the legal and support pages for Brim.
 
-  ## Chinese
+  ## 中文
   - [隐私政策](./privacy-policy.html)
   - [使用条款](./terms-of-use.html)
 
