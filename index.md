@@ -1,8 +1,9 @@
-# Brim Legal
+  Welcome to the legal and support pages for Brim.
 
-Brim 的法律与支持文档。
+  ## Chinese
+  - [隐私政策](./privacy-policy.html)
+  - [使用条款](./terms-of-use.html)
 
-- [隐私政策 / Privacy Policy](./privacy-policy.html)
-- [使用条款 / Terms of Use](./terms-of-use.html)
-
-联系邮箱：jadezhou.cd@outlook.com
+  ## English
+  - [Privacy Policy](./privacy-policy.en.html)
+  - [Terms of Use](./terms-of-use.en.html)
