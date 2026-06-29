@@ -1,4 +1,7 @@
-# Brim 使用条款
+---
+  layout: page
+  title: Brim 使用条款
+---
 
 生效日期：2026-06-29
 
