@@ -1,4 +1,7 @@
-# Brim Terms of Use
+---
+  layout: page
+  title: Brim Terms of Use
+---
 
 Effective Date: 2026-06-29
 
