@@ -3,7 +3,7 @@
   title: Brim Terms of Use
 ---
 
-Effective Date: 2026-06-29
+Effective Date: 2026-07-05
 
 These Terms of Use apply to Brim ("the App"). This document is provided by the developer, Yulin Zhou (Jade Zhou). This document is not legal advice. If possible, it should be reviewed by qualified legal or compliance counsel before release.
 
@@ -53,19 +53,25 @@ On iOS, the App may request camera or photo permissions in order to take photos,
 
 If you deny these permissions, the related features may be unavailable, but other core note features of the App should remain usable.
 
-## 7. Purchases, Entitlements, and Refunds
+## 7. Purchases, Subscriptions, Entitlements, and Refunds
 
-The App may offer one-time purchases or other in-app purchase items. The current StoreKit configuration includes non-consumable purchase items and does not include auto-renewable subscriptions.
+The App may offer auto-renewable subscriptions, one-time purchases, or other in-app purchase items. The available items, prices, billing periods, trials, promotional offers, and unlocked features are governed by the information shown in the App Store or in-app purchase screens.
 
-All purchases are processed by Apple App Store and StoreKit. Pricing, taxes, payment handling, refunds, and family sharing are governed by the information shown by Apple and Apple's own rules.
+Subscriptions renew automatically unless you cancel through your Apple ID, the App Store, or system settings before the end of the current subscription period. After cancellation, you can usually continue using subscribed features until the end of the current billing period. After that period ends, the subscription entitlement may expire and related paid features may be limited or unavailable.
 
-After a successful purchase, the App unlocks the relevant functionality based on transaction state returned by Apple. You may restore purchases through the App Store or system settings.
+One-time purchases are non-consumable purchases. After a successful purchase, the App unlocks the relevant functionality based on transaction state returned by Apple. Unless otherwise required by applicable law, Apple's policies, or these Terms, a one-time purchase entitlement does not require recurring payment.
+
+All purchases are processed by Apple App Store and StoreKit. Pricing, taxes, payment handling, renewals, cancellations, refunds, and family sharing are governed by the information shown by Apple and Apple's own rules. You may manage subscriptions and restore purchases through the App Store, system settings, or the entry points provided by the App.
 
 Unless otherwise required by applicable law or Apple's policies, refund requests should be handled through Apple.
 
 ## 8. Free Features, Paid Features, and Changes
 
-We may add, modify, suspend, or remove features, and we may adjust the scope of free and paid functionality. For non-consumable items already purchased, we will make reasonable efforts to continue honoring the corresponding entitlement, but the experience may still be affected by platform, system, device, or legal constraints.
+The App may provide a free Basic mode with usage limits. Current limits are shown in the App and may apply to notes, tag associations, images, attachments, or other resources. Items in trash or pending deletion may still count toward limits until permanently removed.
+
+If a subscription expires, a purchase is refunded or revoked, or entitlement verification changes, paid features such as iCloud sync may be disabled or limited until a valid entitlement is restored.
+
+We may add, modify, suspend, or remove features, and we may adjust the scope of free features, subscription features, and one-time purchase features. For non-consumable items already purchased, we will make reasonable efforts to continue honoring the corresponding entitlement. If the App changes from a one-time purchase model to a subscription model, we will not withdraw the primary functionality you already paid for solely because of that business model change. The experience may still be affected by platform, system, device, Apple service, legal, or ongoing maintenance constraints.
 
 If terms such as "lifetime" are used for non-consumable purchases, they mean access to the relevant functionality for as long as the App and related platform support remain available. They do not mean that any specific feature, service, or platform will remain unchanged or available forever.
 
@@ -113,5 +119,6 @@ Developer: Yulin Zhou (Jade Zhou)
 
 Region: Mainland China
 
-Email: `jadezhou.cd@outlook.com`
+Email: `feedback@brimmemo.com`
+
 
