@@ -5,7 +5,7 @@
 
 Effective Date: 2026-07-05
 
-These Terms of Use apply to Brim ("the App"). This document is provided by the developer, Yulin Zhou (Jade Zhou). This document is not legal advice. If possible, it should be reviewed by qualified legal or compliance counsel before release.
+These Terms of Use apply to Brim ("the App").
 
 If you obtain the App through the Apple App Store, Apple's Standard End User License Agreement may also apply. If these Terms conflict with Apple's Standard EULA or mandatory provisions of applicable law, Apple's Standard EULA or the mandatory provisions of applicable law will control.
 
