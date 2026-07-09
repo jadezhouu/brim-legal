@@ -5,7 +5,7 @@ title: Privacy Policy
   
 Effective Date: 2026-07-05
 
-This Privacy Policy explains how Brim ("the App") handles information related to you. This document is provided by the developer, Yulin Zhou (Jade Zhou). This document is not legal advice. If possible, it should be reviewed by qualified legal or compliance counsel before release.
+This Privacy Policy explains how Brim ("the App") handles information related to you.
 
 ## 1. Our Core Principles
 
