@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
   
-Effective Date: 2026-06-29
+Effective Date: 2026-07-05
 
 This Privacy Policy explains how Brim ("the App") handles information related to you. This document is provided by the developer, Yulin Zhou (Jade Zhou). This document is not legal advice. If possible, it should be reviewed by qualified legal or compliance counsel before release.
 
@@ -45,9 +45,9 @@ iCloud sync is provided by Apple. The developer of this App does not operate an 
 
 ### 2.4 Purchase and Entitlement Data
 
-The App uses Apple StoreKit to handle in-app purchases. Purchases, refunds, payment methods, taxes, invoices, and transaction validation are handled by Apple.
+The App uses Apple StoreKit to handle in-app purchases, including auto-renewable subscriptions and one-time non-consumable purchases. Purchases, renewals, cancellations, refunds, payment methods, taxes, invoices, and transaction validation are handled by Apple.
 
-The App reads transaction state returned by Apple and locally caches necessary entitlement state, such as product identifiers, transaction identifiers, and platform entitlement state, in order to unlock purchased features.
+The App reads transaction state returned by Apple and locally caches necessary entitlement state, such as product identifiers, transaction identifiers, purchase dates, subscription status, expiration dates, storefront country or region code when available, and platform entitlement state, in order to unlock purchased features, restore purchases, and preserve access when offline or under unstable network conditions.
 
 ### 2.5 Camera, Photos, and Notification Permissions
 
@@ -113,6 +113,7 @@ In the current version, data sharing mainly occurs in the following situations:
 - Apple StoreKit/App Store: to process purchases, refunds, and entitlement validation.
 - Apple TestFlight and system diagnostics: if you participate in testing or choose to share diagnostic data with Apple or developers, Apple may provide testing feedback, crash logs, or diagnostic reports.
 - Email service providers: if you voluntarily send feedback email, the email will be processed by your email provider and ours.
+- Legal document hosting providers: if you open Privacy Policy or Terms links, the hosting provider may process standard web request information such as IP address, browser information, and access time.
 - Legal requirements: if required by applicable law, court order, or regulatory demand, we may process necessary information accordingly.
 
 ## 8. Cross-Border Transfers
@@ -129,14 +130,14 @@ You may:
 - Turn off iCloud, camera, photo, and similar permissions in system settings.
 - Delete the App and its local data through system settings.
 - Manage iCloud data through Apple ID and iCloud settings.
-- Manage purchases, refunds, and subscriptions through the App Store, if subscriptions are offered in the future.
-- Contact us at `jadezhou.cd@outlook.com` with questions about data handling related to the App.
+- Manage purchases, refunds, and subscriptions through the App Store.
+- Contact us at `feedback@brimmemo.com` with questions about data handling related to the App.
 
 Depending on the laws applicable in your region, you may have rights such as access, correction, deletion, restriction of processing, withdrawal of consent, and the right to lodge a complaint. We will reasonably assist with requests related to App data where applicable.
 
 ## 10. Children's Privacy
 
-The App is not specifically directed to children, and we do not knowingly collect personal information from children. If you believe a child has provided personal information through the App, please contact us at `jadezhou.cd@outlook.com`.
+The App is not specifically directed to children, and we do not knowingly collect personal information from children. If you believe a child has provided personal information through the App, please contact us at `feedback@brimmemo.com`.
 
 ## 11. Security
 
@@ -152,5 +153,6 @@ Developer: Yulin Zhou (Jade Zhou)
 
 Region: Mainland China
 
-Email: `jadezhou.cd@outlook.com`
+Email: `feedback@brimmemo.com`
+
 
